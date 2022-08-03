@@ -1,5 +1,5 @@
 function reverseWords(str) {
-  return str.split('').reverse().join('').split(' ')//.reverse().join(' ')
+  return str.split('').reverse().join('').split(' ').reverse().join(' ')
    
 }
 
